@@ -8,11 +8,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
 # ¡Hola! Soy Álvaro 👋
 
 ### 🖥️ Estudiante de ASIR (Administración de Sistemas Informáticos en Red)
