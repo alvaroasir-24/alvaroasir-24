@@ -17,7 +17,7 @@ Soy un estudiante de **ASIR** que combina la robustez de los sistemas y redes co
 * 📊 **Data:** Experto en **SQL y Gestión de Bases de Datos** (modelado relacional y consultas).
 * 🎨 **Diseño 3D:** Alta capacidad de modelado y diseño tridimensional (visualización de proyectos y prototipado).
 * 🐧 **Sistemas:** Entusiasta de **Linux, PowerShell e ISO** (automatización y virtualización).
-* 🇬🇧 **Idiomas:** **Inglés Avanzado (C1)** - Comunicación fluida en entornos IT internacionales.
+* 🗣️ **Idiomas:** **Inglés Avanzado (C1)** - Comunicación fluida en entornos IT internacionales.
 
 ---
 
