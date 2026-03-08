@@ -11,32 +11,28 @@
 ---
 
 ### 🖥️ Sobre mí
-Soy un estudiante de **Administración de Sistemas Informáticos en Red**. Me enfoco en la gestión de infraestructuras, automatización de tareas y seguridad.
+Soy un estudiante de **Administración de Sistemas Informáticos en Red**. Me enfoco en la gestión de infraestructuras, automatización de tareas y administración de servidores.
 
-* 🎓 Actualmente en 1º de **ASIR**.
-* 📺 Documento mis prácticas de **ISO** en YouTube.
-* 🛠️ Aprendiendo: Windows Server, Linux y Redes Cisco.
+* 🎓 Actualmente cursando **1º de ASIR**.
+* 📺 Subo mis prácticas de **ISO** y scripting a YouTube para documentar mi progreso.
+* 🛠️ Intereses: Windows Server, Virtualización, Redes y Linux.
 
 ---
 
-### 🛠️ Stack Tecnológico (Badges con relieve)
+### 🛠️ Stack Tecnológico
 <p align="left">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </p>
 
 ---
 
 ### 🎥 Mi Canal de YouTube
-Para ver mis prácticas de PowerShell paso a paso, haz clic en el siguiente botón:
+Haz clic en el botón para ver mis vídeos de prácticas:
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alvaroasir24)
 
 ---
-
-### 📊 Mis Estadísticas (Efecto Dark)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroasir-24&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</p>
