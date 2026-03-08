@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=TuNombre_SysAdmin&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=alvaroasir24&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">
@@ -11,13 +11,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 # ¡Hola! Soy Álvaro 👋
