@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy [Álvaro] 👋
 
-<!--
-**alvaroasir-24/alvaroasir-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Estudiante de ASIR (Administración de Sistemas Informáticos en Red)
+Me apasiona la infraestructura, la automatización y la seguridad en sistemas tanto Windows como Linux. Actualmente enfocado en dominar el scripting y la gestión de redes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🎓 Estudiando 1º de ASIR.
+- 📺 Tengo un canal de YouTube donde subo mis prácticas de **ISO (Implantación de Sistemas Operativos)**.
+- 🛠️ Actualmente trabajando en: Automatización con PowerShell y Bash.
+- 📫 Cómo contactarme: [amarrib088@gmail.com]
+
+---
+
+### 🖥️ Estudiante de ASIR (Administración de Sistemas Informáticos en Red)
+Me apasiona la infraestructura, la automatización y la seguridad en sistemas tanto Windows como Linux. Actualmente enfocado en dominar el scripting y la gestión de redes.
+
+---
+
+### 🎥 Mis Prácticas en YouTube
+Acompaño mis repositorios con explicaciones en video para documentar mi aprendizaje:
+👉 [**Ir a mi Canal de YouTube**](www.youtube.com/@alvaroasir24)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight))
