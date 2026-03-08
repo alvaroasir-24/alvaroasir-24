@@ -1,4 +1,26 @@
-# ¡Hola! Soy [Álvaro] 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=TuNombre_SysAdmin&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5391FE&center=true&vCenter=true&width=435&lines=Estudiante+de+ASIR;Especialista+en+PowerShell;Amante+de+Linux;Configurando+redes..." alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+# ¡Hola! Soy Álvaro 👋
 
 ### 🖥️ Estudiante de ASIR (Administración de Sistemas Informáticos en Red)
 Me apasiona la infraestructura, la automatización y la seguridad en sistemas tanto Windows como Linux. Actualmente enfocado en dominar el scripting y la gestión de redes.
@@ -9,7 +31,7 @@ Me apasiona la infraestructura, la automatización y la seguridad en sistemas ta
 - 🎓 Estudiando 1º de ASIR.
 - 📺 Tengo un canal de YouTube donde subo mis prácticas de **ISO (Implantación de Sistemas Operativos)**.
 - 🛠️ Actualmente trabajando en: Automatización con PowerShell y Bash.
-- 📫 Cómo contactarme: [amarrib088@gmail.com]
+- 📫 Cómo contactarme: amarrib088@gmail.com
 
 ---
 
