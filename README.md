@@ -15,8 +15,8 @@ Accede a mi servidor personal y servicios desplegados:
 
 [![Acceder a alvarango](https://img.shields.io/badge/alvarango.duckdns.org-Entrar_al_sitio-0078D4?style=for-the-badge&logo=homarr&logoColor=white)](https://alvarango.duckdns.org)
 <p align="center">
-  <a href="https://alvarango.duckdns.org" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🚀_Visitar_mi_sitio_web-0078D4?style=for-the-badge" height="38" />
+  <a href="https://alvarango.duckdns.org" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_ACCEDER_A_MI_WEB-alvarango.duckdns.org-5391FE?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="Mi Servidor Web" />
   </a>
 </p>
 
