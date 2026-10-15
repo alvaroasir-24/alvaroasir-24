@@ -8,8 +8,6 @@
   </a>
 </h1>
 
----
-
 ### 🌐 Mi Entorno / Servidor Web
 Accede a mi servidor personal y servicios desplegados:
 
