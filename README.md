@@ -10,6 +10,18 @@
 
 ---
 
+### 🌐 Mi Entorno / Servidor Web
+Accede a mi servidor personal y servicios desplegados:
+
+[![Acceder a alvarango](https://img.shields.io/badge/alvarango.duckdns.org-Entrar_al_sitio-0078D4?style=for-the-badge&logo=homarr&logoColor=white)](https://alvarango.duckdns.org)
+<p align="center">
+  <a href="https://alvarango.duckdns.org" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🚀_Visitar_mi_sitio_web-0078D4?style=for-the-badge" height="38" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Perfil Profesional
 Soy un estudiante de **ASIR** que combina la robustez de los sistemas y redes con la creatividad del diseño tridimensional. Mi objetivo es aportar soluciones técnicas precisas con una visión visual avanzada.
 
